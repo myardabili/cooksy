@@ -8,7 +8,5 @@
 * flutter_launcher_icons: [Klik Here](https://pub.dev/packages/flutter_launcher_icons)
 
 ### Screenshot
-<img src=" https://i.imgur.com/cHJOQ5v.png " width="300"> 
-<img src=" https://i.imgur.com/Rj015c7.png " width="300"> 
-<img src=" https://i.imgur.com/URlqljD.png " width="300">
+<img src="https://i.imgur.com/cHJOQ5v.png" width="300"> <img src="https://i.imgur.com/Rj015c7.png" width="300"> <img src="https://i.imgur.com/URlqljD.png" width="300">
 
