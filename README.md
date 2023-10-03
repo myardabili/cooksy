@@ -1,16 +1,14 @@
 # dicoding_cook_easy
 
-A new Flutter project.
+### Source Design:
+* Figma: [Klik Here](https://www.figma.com/community/file/1114181037374062788/recipe)
 
-## Getting Started
+### Package Using:
+* google_fonts: [Klik Here](https://pub.dev/packages/google_fonts)
+* flutter_launcher_icons: [Klik Here](https://pub.dev/packages/flutter_launcher_icons)
 
-This project is a starting point for a Flutter application.
+### Screenshot
+<img src=" https://i.imgur.com/cHJOQ5v.png " width="300"> 
+<img src=" https://i.imgur.com/Rj015c7.png " width="300"> 
+<img src=" https://i.imgur.com/URlqljD.png " width="300">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
