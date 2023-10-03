@@ -29,8 +29,8 @@ class SplashScreen extends StatelessWidget {
               children: [
                 Image.asset(
                   'assets/images/food.png',
-                  height: 480,
-                  width: 480,
+                  height: 400,
+                  width: 400,
                 ),
                 const SizedBox(
                   height: 50,
